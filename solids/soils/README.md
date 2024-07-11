@@ -1,14 +1,14 @@
 # Soil sampling
-
+<!---
 - Amount of samples
 - Amount of material per sample.
 - Materials: bags, labels, soil auger, palette knife
-<!---
+
 * Sieving the soil down to 2mm: Removing roots and stones, weighing, refilling and cleaning. Depending on the total sample volume, soil layer and soil structure, this should take no more than one hour per sample, assuming you bring 500 mg of soil sample. 
 * Grinding: plant material 2-4 minutes grinding and soil material 3-8 minutes grinding (depending on soil type) plus cleaning and preparation time. Add approximately 5 minutes per sample.
 * Weighing: It doesn't matter if you are weighing samples for 15N or 13C or total CN app. 5-8 minutes per sample, taking into account all pre-preparation. 
 For 14C we only prepare the sample list, we don't have to prepare anything else.
-* Measurements: for the soil samples we should know the C/N content, because this defines how much we have to weigh for the Isotopes. The plant samples are more or less similar.    
+* Measurements: for the soil samples we should know the C/N content because this defines how much we have to weigh for the Isotopes. The plant samples are more or less similar.    
 Booking procedure: 
 * sieving: Greenhouse 
 * grinding: only single space, 
@@ -23,7 +23,7 @@ Booking procedure:
 
 - If you plan to prepare the solid samples at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need.
 - Avoid plastic to store and handle material that will be analyzed for radiocarbon, as it would modify the isotopic signature.
-- Read the "Guideline for Sampling and Preparation" prepared by Iris Kuhlmann & Jessica Heublein (Protocols/Guideline_solid_preparation.pdf)
+- Read the "Guideline for Sampling and Preparation" prepared by Iris Kuhlmann & Jessica Heublein (Solids/Protocols/Guideline_solid_preparation.pdf)
 - Label all samples including their ID, type of material, responsible person, country and sampling date.
   
 ## Drying
@@ -65,15 +65,11 @@ Time: the required time will depend on the soil type and amount. As a reference 
 
 Sieved soils should be ground before weighing (not for incubations). 
 
-At MPI-BGC, grinding is carried out in the grinding room and the space must be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37. Consider that only one person can work at a time, so it should be reserved with enough time, especially if you have a large number of samples. 
+At MPI-BGC, grinding is carried out in the grinding room (​B1.008) and the space must be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37. Consider that only one person can work at a time, so it should be reserved with enough time, especially if you have a large number of samples. 
+
+Read the grinding instructions written by Iris Kuhlmann & Jessica Heublein (Solids/Protocols/Grinding_instructions.pdf)
 
 Use gloves at all times and wash them before starting the soil manipulation. Avoid the contact of isopropanol with your skin. 
-
-During the grinding process, the sample material will heat up which may cause carbon losses. Just grind as long as necessary!
-
-Silicate enriched soils have to be ground a bit longer but with less material (max. 8 min).
-
-With small grinding jars, you will achieve satisfactory grinding results much faster.
 
 Time: the required time will depend on the soil type and amount. As a reference consider 10-20 min per sample. 
 
@@ -87,15 +83,22 @@ Time: the required time will depend on the soil type and amount. As a reference 
 
 ### Procedure
 
-1. Select the grinding size and balls you need according to the amount of the sample. 
-2. Clean all material (grinding jars and balls) with water, distilled water and isopropanol (do Not use ethanol) when starting each group of samples. Then, dry it with compressed air. Do not use paper because it can modify the isotopic signature. The group of samples you can grind at a time will depend on the number of grinding jars of the size you need.
-3. Put the samples into the grinding jar and grind it in the ball mill machine. Start with 1 minute (25 pm) and increase the time according to the 
-
+1. Select the grinding jar size and balls you need according to the amount of the sample. With small grinding jars, you will achieve satisfactory grinding results much faster.
+2. Clean all material (grinding jars and balls) with water, distilled water and isopropanol (do Not use ethanol) at the beginning of each set of samples. Then, dry it with compressed air. Do not use paper because it can modify the isotopic signature. The number of samples you can grind at one time will depend on the number of size grinding jars you need.
+3. Put the samples into the grinding jar and grind them in the ball mill. Start with 1 minute (25 rpm) and increase the time if necessary to achieve a homogeneous material. Note that during the grinding process, the sample material will heat up which may cause carbon losses. Just grind as long as necessary! Silicate enriched soils have to be ground a bit longer but with less material (max. 8 min).
+4. Put the ground samples in the glass jars.
+5. Clean all materials to continue with the next set of samples.
 
 ## Weighing
 
 ### Considerations
+Soil samples have to be weighted to determine the C/N content.
+
+At MPI-BGC, weighing is carried out in the weighing room (B1.010) and the space must be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37. For soil weighting, you should book the microbalance XPR205.
+
+Please read the weighing instructions (Solids/Protocols/Weighing_CN_analysis.pdf)
 
 ### Materials
+
 
 ### Procedure
