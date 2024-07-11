@@ -23,8 +23,9 @@ Booking procedure:
 
 - If you plan to prepare the solid samples at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need.
 - Avoid plastic to store and handle material that will be analyzed for radiocarbon, as it would modify the isotopic signature.
+- Read the "Guideline for Sampling and Preparation" prepared by Iris Kuhlmann & Jessica Heublein (Protocols/Guideline_solid_preparation.pdf)
 - Label all samples including their ID, type of material, responsible person, country and sampling date.
-
+  
 ## Drying
 If your analyses do not involve the field conditions, dry the soil at 40&deg;. It will facilitate the sieving and avoid the decomposition of the material. 
 
@@ -36,6 +37,8 @@ Soils should be sieved with a 2mm sieve for both radiocarbon analyses and incuba
 At MPI-BGC, sieving is carried out in the greenhouse and the space has to be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37
 
 Use gloves at all times and wash them before starting the soil manipulation.
+
+Time: the required time will depend on the soil type and amount. As a reference consider 20-40 min per sample. 
 
 ### Materials
 - 2 mm sieves.
@@ -60,9 +63,34 @@ Use gloves at all times and wash them before starting the soil manipulation.
 
 ### Considerations
 
+Sieved soils should be ground before weighing (not for incubations). 
+
+At MPI-BGC, grinding is carried out in the grinding room and the space must be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37. Consider that only one person can work at a time, so it should be reserved with enough time, especially if you have a large number of samples. 
+
+Use gloves at all times and wash them before starting the soil manipulation. Avoid the contact of isopropanol with your skin. 
+
+During the grinding process, the sample material will heat up which may cause carbon losses. Just grind as long as necessary!
+
+Silicate enriched soils have to be ground a bit longer but with less material (max. 8 min).
+
+With small grinding jars, you will achieve satisfactory grinding results much faster.
+
+Time: the required time will depend on the soil type and amount. As a reference consider 10-20 min per sample. 
+
 ### Materials
 
+- Ball mill machine.
+- Balls and grinding jars.
+- Isopropanol.
+- Weighing paper or some material that can be used as a funnel (do not use plastic).
+- Glass jars to keep the ground soil. 
+
 ### Procedure
+
+1. Select the grinding size and balls you need according to the amount of the sample. 
+2. Clean all material (grinding jars and balls) with water, distilled water and isopropanol (do Not use ethanol) when starting each group of samples. Then, dry it with compressed air. Do not use paper because it can modify the isotopic signature. The group of samples you can grind at a time will depend on the number of grinding jars of the size you need.
+3. Put the samples into the grinding jar and grind it in the ball mill machine. Start with 1 minute (25 pm) and increase the time according to the 
+
 
 ## Weighing
 
