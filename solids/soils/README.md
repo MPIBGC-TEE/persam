@@ -94,11 +94,34 @@ Time: the required time will depend on the soil type and amount. As a reference 
 ### Considerations
 Soil samples have to be weighted to determine the C/N content.
 
-At MPI-BGC, weighing is carried out in the weighing room (B1.010) and the space must be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37. For soil weighting, you should book the microbalance XPR205.
+At MPI-BGC, weighing is carried out in the weighing room (B1.010) and the space must be booked in advance at this link: https://teamup.com/ksa4ng2jmfe4wcwp37. For soil weighting, you should book the microbalance XPR205. Only those who have received instruction on the analytical balance may work with it! Instruction by Iris Kuhlmann, Ines Hilke or Heike Geilmann
+
+Weighing is done according to soil depth (proxy of carbon content). 0-20 cm: 250 mg, 20-30 cm: 300 mg. Accuracy: 5 mg.
+
+If you are unsure of the absence of inorganic carbon, weigh samples to determine inorganic carbon content in addition to total carbon.
 
 Please read the weighing instructions (Solids/Protocols/Weighing_CN_analysis.pdf)
 
 ### Materials
+- Ground soils.
+- Ceramic pots.
+- Sample boxes.
+- Tungsten.
+- Tweezers and spoons.
+- Isopropanol.
 
+### Procedure total carbon 
 
-### Procedure
+1. Use the template available on the computer connected to the microbalance.
+2. Weigh in ceramic pots and place the pot in the box according to the position corresponding to the template (A,B,C..., 1,2,3...).
+3. Add 400-500 mg of tungsten to each ceramic pot with the sample. Do not write down the weight.
+4. Send the filled templated file to Probenannahme_RoMA@bgc-jena.mpg.de.
+
+### Procedure inorganic carbon
+
+1. Use the template available on the computer connected to the microbalance.
+2. Weigh in ceramic pots and place the pot in the box according to the position corresponding to the template (A,B,C..., 1,2,3...).
+3. Additionally weigh 1x standard soil.
+4. Place in muffle furnace for 16 h at 450 °C (place in metal racks one after the other).
+5. Add 400-500 mg of tungsten to each ceramic pot with the sample. Do not write down the weight.
+6. Send the filled templated file to Probenannahme_RoMA@bgc-jena.mpg.de.
