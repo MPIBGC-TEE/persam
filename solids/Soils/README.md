@@ -1,29 +1,16 @@
 
-<!---
-- Amount of samples
-- Amount of material per sample.
-- Materials: bags, labels, soil auger, palette knife
-
-* Sieving the soil down to 2mm: Removing roots and stones, weighing, refilling and cleaning. Depending on the total sample volume, soil layer and soil structure, this should take no more than one hour per sample, assuming you bring 500 mg of soil sample. 
-* Grinding: plant material 2-4 minutes grinding and soil material 3-8 minutes grinding (depending on soil type) plus cleaning and preparation time. Add approximately 5 minutes per sample.
-* Weighing: It doesn't matter if you are weighing samples for 15N or 13C or total CN app. 5-8 minutes per sample, taking into account all pre-preparation. 
-For 14C we only prepare the sample list, we don't have to prepare anything else.
-* Measurements: for the soil samples we should know the C/N content because this defines how much we have to weigh for the Isotopes. The plant samples are more or less similar.    
-Booking procedure: 
-* sieving: Greenhouse 
-* grinding: only single space, 
-* Weighing: weighing room, balance type XPR2 or MX5 for Isotopes and XPR205 for total CN. We should try to start with the total CN content. The ROma department needs a bit time to determine the samples. They should know in advance so that they are prepared to measure your samples immediately. 
--->
-
-
 
 # Soil preparations for radiocarbon analyses
 
-## General considerations
+## Useful files
+- Sieving template (template in solids/Templates/Soil_Sieving.xlsx)
+- Guideline for sampling and preparation (solids/Protocols/Guideline_solid_preparation.pdf)
+- Weighing instructions (solids/Protocols/Weighing_CN_analysis.pdf)
 
+## General considerations
 - If you plan to prepare the solid samples at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need.
 - Avoid plastic to store and handle material that will be analyzed for radiocarbon, as it would modify the isotopic signature.
-- Read the "Guideline for Sampling and Preparation" prepared by Iris Kuhlmann & Jessica Heublein (Solids/Protocols/Guideline_solid_preparation.pdf)
+- Read the "Guideline for Sampling and Preparation" prepared by Iris Kuhlmann & Jessica Heublein (solids/Protocols/Guideline_solid_preparation.pdf)
 - Label all samples including their ID, type of material, responsible person, country and sampling date.
   
 ## Drying
@@ -52,7 +39,7 @@ Time: the required time will depend on the soil type and amount. As a reference 
 
 1. Clean all material (sieve parts and tweezers) with water and distilled water, then, dry it with compressed air. Do not use paper because it can modify the isotopic signature.
 2. Wripe all material with isopropanol (do NOT use ethanol) when starting and before moving on to samples of a different profile.
-3. Write down the weights of the sample + the bag or container where it is stored, the glass jar and the plastic bag for stones (see the template in Templates/Soil_Sieving.xlsx).
+3. Write down the weights of the sample + the bag or container where it is stored, the glass jar and the plastic bag for stones (see the template in solids/Templates/Soil_Sieving.xlsx).
 4. Sieve the soil with the 2mm sieve, removing stones and roots. If there are samples of the same profile, go from the deepest to the most shallow, trying to go from the sample with the lowest carbon content to the one with the highest, avoiding contamination.
 5. Remove roots that crossed the sieve with the tweezers. Store roots in an independent jar if you are interested in their radiocarbon. 
 6. Put the sieved samples in their respective jars using the weighing paper as a funnel.
