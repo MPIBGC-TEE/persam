@@ -3,6 +3,7 @@
 ## Useful files
 - WHCmax protocol (air/Procotols/Incubations_WHCmax.docx).
 - WHCmax template (air/Templates/Incubations_Water_holding_capacity.xlsx)
+- Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx)
 
 ## General considerations
 - If you plan to do incubations at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need. Also, please contact Axel Steinhof (steinhof@bgc-jena.mpg.de) to inform him that you will use the extraction line located in the radiocarbon laboratory.
@@ -10,7 +11,7 @@
 - Label all flasks including their ID, type of material, responsible person, country and sampling date.
  
 ## Water holding capacity
-The maximum water holding capacity (WHCmax) should be calculated since previous experiments showed that the respiration of soil microbes in many soils is highest at 60% WHCmax.
+The maximum water holding capacity (WHCmax) is the water volume that can be absorbed by 100 g of dried soil. WHCmax should be calculated since previous experiments showed that the respiration of soil microbes in many soils is highest at 60% WHCmax. 
 
 ## Considerations
 - Please read the protocol summarized by Jessica Heublein to obtain WHCmax (air/Procotols/Incubations_WHCmax.docx).
@@ -70,7 +71,12 @@ The maximum water holding capacity (WHCmax) should be calculated since previous 
 ## Incubations
 
 ## Considerations
-To avoid a change in the adjusted soil moisture a certain amount of dist. water should be added to the bottom of the incubation jars.
+
+- Please read the protocol to perform the incubations and measure the CO<sub>2</sub> respiration using the LA-COR (Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx).
+- The LI-COR is located in Marion Schrumpf's lab (B2.018). Please book the space at https://teamup.com/ksa4ng2jmfe4wcwp3, specifying you will use the LI-COR.
+- If you have enough time it is desirable to carry out an incubation test to know the approximate time your samples need to reach the necessary CO2 concentration. This is to book the extraction line (radiocarbon laboratory) a priori and not submit the soil to toxic concentrations of CO<sub>2</sub>.
+
+
 ### Materials
 
 
@@ -79,7 +85,7 @@ To avoid a change in the adjusted soil moisture a certain amount of dist. water 
 
 
 
-## Measurements of CO<sub>2 with LI-COR
+## Measurements of CO<sub>2</sub> with LI-COR
 ## Considerations
 
 ### Materials
@@ -90,7 +96,8 @@ To avoid a change in the adjusted soil moisture a certain amount of dist. water 
 ## Extraction line
 
 ## Considerations
-
+- Book the extraction line directly by writing to Axel Steinhof (steinhof@bgc-jena.mpg.de) specifying the number of samples you will extract. In general, no more than 10 samples per day are allowed.
+- As mentioned before, if you know when your incubations need to reach the desired concentration, book the line before starting the incubations to avoid toxic conditions.
 ### Materials
 
 
