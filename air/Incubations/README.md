@@ -5,6 +5,8 @@
 - WHCmax template (air/Templates/Incubations_Water_holding_capacity.xlsx)
 - Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx)
 - CO<sub>2</sub> concentration soil respiration (air/Templates/Incubations_CO2_concentration.xlsx)
+- Protocol to extract the gas using the graphitisation line (air/Protocols/Extraction_Flasks_Graph_Line.pdf).
+- Explanation of the protocol to extract the gas (air/Protocols/Extraction_explanation_to_the_instruction.pdf)
 
 ## General considerations
 - If you plan to do incubations at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need. Also, please contact Axel Steinhof (steinhof@bgc-jena.mpg.de) to inform him that you will use the extraction line located in the radiocarbon laboratory.
@@ -136,25 +138,40 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
    
    ii. Connect the syringe (with the stopcock) to one needle in the incubation jar.
    
-   iii. Take 5 ml of gas sample and close the stopcock in the incubation jar (3.ii).
+   iii. Take 5 ml of gas sample and close the stopcock in the incubation jar (3, ii).
    
    iv. The procedure for measurement is the same as for the calibration.
    
    v. Write the "peak area (int)" and "peak height (max)" in the template (air/Templates/Incubations_CO2_concentration.xlsx).
+   
    vi. Inject 5 ml of CO<sub>2</sub>-free to compensate the pressure.
+   
    vii. Close the CO<sub>2</sub> gas bottle after usage and turn off the Li-Cor.
 
-If concentrations correspond to carbon amount of more than 2 mg
-
+If the concentrations correspond to a quantity of carbon greater than 1 mg, extract the air from the incubation jars directly into the extraction line (radiocarbon laboratory) or by passing the air into the flasks. Very high concentrations are toxic to bacteria and microorganisms in the soil.
   
-
-## Extraction line
+## Extraction at the Graphitisation-Line
 
 ## Considerations
-- Book the extraction line directly by writing to Axel Steinhof (steinhof@bgc-jena.mpg.de) specifying the number of samples you will extract. In general, no more than 10 samples per day are allowed.
-- As mentioned before, if you know when your incubations need to reach the desired concentration, book the line before starting the incubations to avoid toxic conditions.
+- Reserve the extraction line by writing directly to Axel Steinhof (steinhof@bgc-jena.mpg.de), the director of the radiocarbon laboratory, specifying the number of samples you intend to extract. In general, no more than 10 samples per day are allowed.
+- Please read the extraction line usage protocol (air/Protocols/Extraction_Flasks_Graph_Line.pdf) and the explanation of the logic behind the different steps (air/Protocols/Extraction_explanation_to_the_instruction.pdf) prepared by Axel Steinhof. Note that this protocol is updated periodically, so when you book the line, please ask Axel if there is a new version.
+- As mentioned above, if you know how long your incubations take to reach the desired concentration, reserve the line before you start the incubations to avoid toxic conditions.
+- If possible, learn how to use the extraction line with the incubation tests. A mistake will likely be made at this stage of the process and the sample will be lost, so it is best to internalize the procedure before extracting the final samples.
+  
 ### Materials
+- Extraction line. 
 - Needles.
+- Dry ice.
+- Liquid nitrogen.
+- Propanol or isopropanol.
+- Dewars for putting dry ice mixed with propanol and liquid nitrogen.
+- Thermometer. 
 
 ### Procedure
+1. Send the input file with sample names to the radiocarbon laboratory for assigning P-Numbers and preparing the riglets.
+2. Prepare the refrigerant mixture of dry ice and isopropanol in two dewars controlling that the temperature is lower than -70 °C. One dewar is to trap the water in the line and the other one to precool the jars.
+3. Precool the jar.
+4. Extract the gas following the steps that are well described in the protocol (air/Protocols/Extraction_Flasks_Graph_Line.pdf) and write the pressure values and data in the Extraction template (air/Templates/Extraction_control_template.pdf) prepared by Axel Steinhof.
+5. Add hydrogen to each riglet following the instructions for "Postprocessing at the UGCS" in the extraction protocol (air/Protocols/Extraction_Flasks_Graph_Line.pdf).
+6. Filled riglets should be left on the table outside the laboratory with the input file and the filled information to be graphitized and processed. 
 
