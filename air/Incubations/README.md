@@ -16,7 +16,7 @@
 ## Water holding capacity
 The maximum water holding capacity (WHCmax) is the water volume that can be absorbed by 100 g of dried soil. WHCmax should be calculated since previous experiments showed that the respiration of soil microbes in many soils is highest at 60% WHCmax. 
 
-## Considerations
+### Considerations
 - Please read the protocol summarized by Jessica Heublein to obtain WHCmax (air/Procotols/Incubations_WHCmax.docx).
 - Necessary materials are at Marion Schrumpf lab (B2.018).
 - Soil has to be previously sieved (see instructions in 'solids/Soils').
@@ -73,7 +73,7 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 
 ## Incubations
 
-## Considerations
+### Considerations
 
 - Please read the protocol to perform the incubations and measure the CO<sub>2</sub> respiration using the LA-COR (Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx).
 - The Li-Cor is located in Marion Schrumpf's lab (B2.018). Please book the space at https://teamup.com/ksa4ng2jmfe4wcwp3, specifying you will use the Li-Cor. Also, the flushing with CO<sub>2</sub>-free air is carried out in the same space and should be booked.
@@ -102,7 +102,7 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 
 ## Measurements of CO<sub>2</sub> with Li-Cor
 
-## Considerations
+### Considerations
 - Measures of CO<sub>2</sub> concentration should be done frequently to determine if the carbon (1 mg carbon per sample) for radiocarbon analysis has already been reached avoiding toxic concentrations that may modify the results.
 - Please read the protocol to perform the incubations and measure the CO<sub>2</sub> respiration using the Li-Cor (Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx).
 - Switch on the Li-Cor one hour before you want to measure.
@@ -152,7 +152,7 @@ If the concentrations correspond to a quantity of carbon greater than 1 mg, extr
   
 ## Extraction at the Graphitisation-Line
 
-## Considerations
+### Considerations
 - Reserve the extraction line by writing directly to Axel Steinhof (steinhof@bgc-jena.mpg.de), the director of the radiocarbon laboratory, specifying the number of samples you intend to extract. In general, no more than 10 samples per day are allowed.
 - Please read the extraction line usage protocol (air/Protocols/Extraction_Flasks_Graph_Line.pdf) and the explanation of the logic behind the different steps (air/Protocols/Extraction_explanation_to_the_instruction.pdf) prepared by Axel Steinhof. Note that this protocol is updated periodically, so when you book the line, please ask Axel if there is a new version.
 - As mentioned above, if you know how long your incubations take to reach the desired concentration, reserve the line before you start the incubations to avoid toxic conditions.
