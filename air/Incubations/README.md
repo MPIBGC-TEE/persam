@@ -82,10 +82,11 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 ### Materials
 - 2 mm sieved soil. 
 - Dispensette for distilled water.
-- Flushing gas (CO2 free) from Westfalen
+- Flushing gas (CO<sub>2</sub> free) from Westfalen
 - Calibration jars (with identified volume [ml]).
 - Silicone septa to seal the jars.
 - Incubation/preserving jars. The size will depend on the amount of soil that will be incubated.
+- Needles.
 
 ### Procedure
 1. Estimate the required water amount to adjust the soil moisture to 60% water holding capacity. It is calculated in 'air/Templates/Incubations_Water_holding_capacity.xlsx'. Use distilled water for this purpose.
@@ -100,7 +101,8 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 ## Measurements of CO<sub>2</sub> with Li-Cor
 
 ## Considerations
-- Please read the protocol to perform the incubations and measure the CO<sub>2</sub> respiration using the LA-COR (Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx).
+- Measures of CO<sub>2</sub> concentration should be done frequently to determine if the carbon (1 mg carbon per sample) for radiocarbon analysis has already been reached avoiding toxic concentrations that may modify the results.
+- Please read the protocol to perform the incubations and measure the CO<sub>2</sub> respiration using the Li-Cor (Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx).
 - Switch on the Li-Cor one hour before you want to measure.
 
 ### Materials
@@ -110,6 +112,41 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 - Needles.
 
 ### Procedure
+1. Adjust the CO2 baseline to zero (use the knob "COsub>2</sub> zero").
+2. The pressure should be at 600 mbar. Check that the water trap is not saturated (indicator colour blue not purple) and the Soda Lime in the COsub>2</sub> trap is not older than 3 months (check the label on the tube).
+3. At the beginning of each series of measurements you have to make a calibration line with a COsub>2</sub> reference gas (CO2-value = 3000 ppm). For that, add a needle to the syringe and pierce the septum of the COsub>2</sub> analyser in the middle and use volumes of reference gas of 5, 4.4, 4, 3.4, 3, 2.4, 2, 1.4, 1, and 0.4 ml.
+   
+   i. Adjust the setup settings:
+      - Select the integrate-function: "Function" "9" and press "Enter".
+      - Select the channel code for CO2 in µmol/mol abs.: "22" and press "Enter".
+      - Select the starting point of your measurement: "On Exit" (integration will start immediately) or "Thrsh"  (integration starts when the selected channel rises above the threshold value). Select "Thrsh" and press "Enter".
+      - Select the starting threshold value: "0.25" and press "Enter".
+      - Select the ending point of your measurement: "Manual", "elaps tm" or "Thrsh". Select "Thrsh" (integration stops at the threshold value of 0.25µm/m). Do not press "Enter" yet.
+
+    ii. Open the stopcock of the syringe. Press "Enter". Press the plunger evenly down. Measurement starts. Write the "peak area (int)" and "peak height (max)" in the template (air/Templates/Incubations_CO2_concentration.xlsx).
+
+    iii. For further measurements (each volume of reference gas): Select integrate function: "Function" "9". Press "Enter". Press "Enter" 3 times more, open the stopcock, press "Enter" and press the plunger down. Measurement starts (To switch between displays to see the peak area and the peak height, press 1 and 2, respectively).
+   
+    iv. Plot the calibration curve. It is calculated in the template.
+
+4. Measure your samples. 
+   i. Wirl the incubation jar slightly, so that the developed COsub>2</sub> is uniformly distributed.
+   
+   ii. Connect two needles to the septa.
+   
+   ii. Connect the syringe (with the stopcock) to one needle in the incubation jar.
+   
+   iii. Take 5 ml of gas sample and close the stopcock in the incubation jar (3.ii).
+   
+   iv. The procedure for measurement is the same as for the calibration.
+   
+   v. Write the "peak area (int)" and "peak height (max)" in the template (air/Templates/Incubations_CO2_concentration.xlsx).
+   vi. Inject 5 ml of CO<sub>2</sub>-free to compensate the pressure.
+   vii. Close the CO<sub>2</sub> gas bottle after usage and turn off the Li-Cor.
+
+If concentrations correspond to carbon amount of more than 2 mg
+
+  
 
 ## Extraction line
 
@@ -117,7 +154,7 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 - Book the extraction line directly by writing to Axel Steinhof (steinhof@bgc-jena.mpg.de) specifying the number of samples you will extract. In general, no more than 10 samples per day are allowed.
 - As mentioned before, if you know when your incubations need to reach the desired concentration, book the line before starting the incubations to avoid toxic conditions.
 ### Materials
-
+- Needles.
 
 ### Procedure
 
