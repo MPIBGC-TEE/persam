@@ -1,5 +1,8 @@
 # Gas sampling from incubations of soils and other solid material
 
+## Useful files
+- WHCmax protocol (air/Procotols/Incubations_WHCmax.docx).
+- WHCmax template (air/Templates/Incubations_Water_holding_capacity.xlsx)
 
 ## General considerations
 - If you plan to do incubations at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need. Also, please contact Axel Steinhof (steinhof@bgc-jena.mpg.de) to inform him that you will use the extraction line located in the radiocarbon laboratory.
@@ -43,6 +46,25 @@ The maximum water holding capacity (WHCmax) should be calculated since previous 
 
    vi. Calculate the dry matter content. For that use the formulas in air/Procotols/Incubations_WHCmax.docx that are already programmed in the second sheet of the template (air/Templates/Incubations_Water_holding_capacity.xlsx).
 
+2. Determine the soil water absorption:
+
+   i. Close the open bottom of the Falcon tubes with mesh material and seal them with rubber bands.
+   
+   ii. Weigh the Falcon tubes and write the weight in the template (air/Templates/Incubations_Water_holding_capacity.xlsx).
+   
+   iii. Weigh 15 g of sieved soil in the Falcon tube and write the weight.
+   
+   iv. Put a towel in the first crystallizing dish and place the Falcon tubes in (mesh downwards).
+   
+   v. Fill the dish with distilled water (ratio 1:2, water height: soil height).
+   
+   vi. Cover the dish with a paper towel overnight.
+   
+   vii. The next day, fill a second crystallizing dish with sand (at least 1cm high) and put the tubes in for 30 min for draining.
+   
+   viii. Weigh the tubes and write the weight.
+   
+   ix. Calculate the WHCmax. For that use the formulas in air/Procotols/Incubations_WHCmax.docx that are already programmed in the second sheet of the template (air/Templates/Incubations_Water_holding_capacity.xlsx).
    
 
 ## Incubations
