@@ -1,22 +1,54 @@
 # Gas sampling from incubations of soils and other solid material
 
+
 ## General considerations
-- If you plan to do incubations at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need. Besides, contact Axel Steinhof (steinhof@bgc-jena.mpg.de) informing you will use the extraction line located at the Radiocarbon laboratory.
+- If you plan to do incubations at MPI-BGC, please contact Iris Kuhlmann (kuhlmann@bgc-jena.mpg.de) in advance and describe what you intend to do and the material you need. Also, please contact Axel Steinhof (steinhof@bgc-jena.mpg.de) to inform him that you will use the extraction line located in the radiocarbon laboratory.
 - Avoid plastic to store and handle material that will be analyzed for radiocarbon, as it would modify the isotopic signature.
 - Label all flasks including their ID, type of material, responsible person, country and sampling date.
  
 ## Water holding capacity
-## Considerations
+The maximum water holding capacity (WHCmax) should be calculated since previous experiments showed that the respiration of soil microbes in many soils is highest at 60% WHCmax.
 
+## Considerations
+- Please read the protocol summarized by Jessica Heublein to obtain WHCmax (air/Procotols/Incubations_WHCmax.docx).
+- Necessary materials are at Marion Schrumpf lab (B2.018).
+- Soil has to be previously sieved (see instructions in 'solids/Soils').
+- Use the template to write the measures and perform the calculations (air/Templates/Incubations_Water_holding_capacity.xlsx).
+- The procedure is based on the protocol summarized by Jessica Heublein (air/Procotols/Incubations_WHCmax.docx).
+  
 ### Materials
 
+- 2 mm sieved soil.
+- Small paper bags.
+- 50 ml Falcon tubes with an open bottom.
+- Mesh material (polyester).
+- Rubber bands.
+- Crystallizing dishes (2 pieces, Ø 230 mm).
+- Towel paper.
+- Sand.
 
 ### Procedure
+
+1. Determine the soil water content to correct the WHCmax. For that:
+
+   i. Label paper bags and write the net weight of the glass in the template (air/Templates/Incubations_Water_holding_capacity.xlsx).
+
+   ii. Weigh 10 g of sample in the bag and write the weight.
+    
+   iii. Dry the sample overnight (min. 24 h) at 105°C till the constant weight is adjusted.
+    
+   iv. Take the bags out of the oven (put on an oven mitt) and put them immediately in the desiccator cupboard for cool down (otherwise they can absorb water from the air).
+
+   v. Weigh the dried samples and write the weight.
+
+   vi. Calculate the dry matter content. For that use the formulas in air/Procotols/Incubations_WHCmax.docx that are already programmed in the second sheet of the template (air/Templates/Incubations_Water_holding_capacity.xlsx).
+
+   
 
 ## Incubations
 
 ## Considerations
-
+To avoid a change in the adjusted soil moisture a certain amount of dist. water should be added to the bottom of the incubation jars.
 ### Materials
 
 
