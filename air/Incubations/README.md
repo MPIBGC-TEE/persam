@@ -73,23 +73,38 @@ The maximum water holding capacity (WHCmax) is the water volume that can be abso
 ## Considerations
 
 - Please read the protocol to perform the incubations and measure the CO<sub>2</sub> respiration using the LA-COR (Incubations and measure of soil respiration (air/Protocols/Incubations_and_measuring_soil_respiration.docx).
-- The LI-COR is located in Marion Schrumpf's lab (B2.018). Please book the space at https://teamup.com/ksa4ng2jmfe4wcwp3, specifying you will use the LI-COR.
-- If you have enough time it is desirable to carry out an incubation test to know the approximate time your samples need to reach the necessary CO2 concentration. This is to book the extraction line (radiocarbon laboratory) a priori and not submit the soil to toxic concentrations of CO<sub>2</sub>.
+- The Li-Cor is located in Marion Schrumpf's lab (B2.018). Please book the space at https://teamup.com/ksa4ng2jmfe4wcwp3, specifying you will use the Li-Cor.
+- If you have enough time it is desirable to carry out an incubation test to know the approximate time your samples need to reach the necessary CO<sub>2</sub> concentration. This is to book the extraction line (radiocarbon laboratory) a priori and not submit the soil to toxic concentrations of CO<sub>2</sub>.
+- For the <sup>14</sup>C measurement a minimum amount of 1 mg carbon per sample is required (2% CO<sub>2</sub>=1850 ppm/bar per litre).
+- If samples have been stored at low temperatures before incubation, a pre-incubation is recommended to allow soil microbes to adapt to incubation temperature.
 
 
 ### Materials
+- 2 mm sieved soil. 
+- Dispensette for distilled water.
+- Calibration jars (with identified volume [ml]).
+- Silicone septa 
+- Incubation/preserving jars. The size will depend on the amount of soil that will be incubated.
 
 
 ### Procedure
+1. Estimate the required water amount for adjusting the soil moisture to 60% water holding capacity. It is calculated in 'air/Templates/Incubations_Water_holding_capacity.xlsx'.
+2. Label the incubation jars and write their weight.
+3. Weigh ~100 g (it could be less depending on the soil type) of sieved soil and add the estimated water amount via a spraying nozzle equally to the soil sample. 
 
 
 
+## Measurements of CO<sub>2</sub> with Li-Cor
 
-## Measurements of CO<sub>2</sub> with LI-COR
+
 ## Considerations
 
 ### Materials
-
+- CO2-analyzer (Li-Cor® 6262)
+- Flushing gas (CO2 free) from Westfalen
+- Calibrating gas (3000 ppm CO2 + N) from Westfalen
+- 5 ml syringe with Stopcock
+- Needles
 
 ### Procedure
 
