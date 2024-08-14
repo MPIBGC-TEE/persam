@@ -1,4 +1,4 @@
-# Soil sampling
+
 <!---
 - Amount of samples
 - Amount of material per sample.
